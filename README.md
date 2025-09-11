@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 👨‍💻 All of my projects are available at [https://github.com/SauravAgarwal6](https://github.com/SauravAgarwal6)
 - 💬 Ask me about **JavaScript, React, and Frontend Development**
-- 📫 How to reach me **saurav.agarwal@example.com**
+- 📫 How to reach me **sauravplace7277@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1V7iHcCskpXUu8XQz1LLWHy5Lv_V-lOoq/view?usp=drive_link]
 - ⚡ Fun fact **I think I am funny**
 

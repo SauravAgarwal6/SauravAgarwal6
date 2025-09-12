@@ -1,37 +1,85 @@
-<h1 align="center">Hi 👋, I'm Saurav Agarwal</h1>
-<h3 align="center">A passionate developer from India</h3>
+# Hi there, I'm Saurav Agarwal 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SauravAgarwal6&label=Profile%20views&color=0e75b6&style=flat" alt="sauravagarwal6" /> </p>
-
-- 🌱 I’m currently learning **React and Node.js**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 👨‍💻 All of my projects are available at [https://github.com/SauravAgarwal6](https://github.com/SauravAgarwal6)
-- 💬 Ask me about **JavaScript, React, and Frontend Development**
-- 📫 How to reach me **sauravplace7277@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1V7iHcCskpXUu8XQz1LLWHy5Lv_V-lOoq/view?usp=drive_link]
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
-<a href="https://twitter.com/your-twitter-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter-username" height="30" width="40" /></a>
-<a href="https://instagram.com/your-instagram-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram-username" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/SauravAgarwal6">
+    <img src="https://komarev.com/ghpvc/?username=SauravAgarwal6&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> &nbsp
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> &nbsp
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+### A Full-Stack Developer from India specializing in the MERN stack.
+
+I'm passionate about building dynamic and responsive web applications from scratch and love bringing ideas to life in the browser.
+
+---
+
+### 🚀 My Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Real-Time Private Chat App</h3>
+<div align="center">
+<p>A full-stack application for real-time, private conversations between users, featuring image sharing and online presence indicators.</p>
+<p>
+<strong>Tech Stack:</strong> React, Node.js, Express, MongoDB, Socket.IO, Tailwind CSS
+</p>
+<a href="https://full-stack-chat-app-ztvs.onrender.com/" target="_blank"><strong>Live Demo »</strong></a>
+<br>
+<a href="https://github.com/SauravAgarwal6/Full-Stack-Chat-App" target="_blank"><strong>View Code »</strong></a>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Video Call Application</h3>
+<div align="center">
+<p>A real-time video conferencing application that enables users to connect face-to-face through their browsers.</p>
+<p>
+<strong>Tech Stack:</strong> React, WebRTC, Socket.IO, Node.js
+</p>
+<a href="https://call-app-by-saurav.netlify.app/" target="_blank"><strong>Live Demo »</strong></a>
+<br>
+<a href="https://github.com/SauravAgarwal6/CallApp" target="_blank"><strong>View Code »</strong></a>
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ My Tech Stack
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SauravAgarwal6&show_icons=true&locale=en&layout=compact" alt="sauravagarwal6" /></p> &nbsp
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SauravAgarwal6&show_icons=true&locale=en" alt="sauravagarwal6" /></p>&nbsp
+### 📊 My GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SauravAgarwal6&" alt="sauravagarwal6" /></p> &nbsp
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SauravAgarwal6&show_icons=true&theme=tokyonight&cache_seconds=3600" alt="Saurav's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauravAgarwal6&layout=compact&theme=tokyonight&cache_seconds=3600" alt="Top Languages" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SauravAgarwal6&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+-   **Portfolio:** **[shiny-zuccutto-d116d0.netlify.app](https://66f6a58b778c4d47b6eb3eca--shiny-zuccutto-d116d0.netlify.app/)**
+-   **Email:** **sauravplace7277@gmail.com**
+-   **LinkedIn:** **[linkedin.com/in/saurav-kumar663](https://www.linkedin.com/in/saurav-kumar663/)**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saurav-kumar663/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saurav Kumar's LinkedIn" height="30" width="40" /></a>
+  <a href="https://x.com/saurav_agarwal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Saurav Agarwal's Twitter" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/saurav_agarwal7277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Saurav Agarwal's Instagram" height="30" width="40" /></a>
+</p>

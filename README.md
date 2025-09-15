@@ -74,7 +74,7 @@ I'm passionate about building dynamic and responsive web applications from scrat
 
 ### 📫 Let's Connect!
 
--   **Portfolio:** **[shiny-zuccutto-d116d0.netlify.app](https://66f6a58b778c4d47b6eb3eca--shiny-zuccutto-d116d0.netlify.app/)**
+-   **Portfolio:** **(https://sauravagarwalportfolio.netlify.app/)**
 -   **Email:** **sauravplace7277@gmail.com**
 -   **LinkedIn:** **[linkedin.com/in/saurav-kumar663](https://www.linkedin.com/in/saurav-kumar663/)**
 

@@ -67,7 +67,7 @@ I'm passionate about building dynamic and responsive web applications from scrat
   <img align="center" src="https://github-readme-stats-gamma-cyan-70.vercel.app/api/top-langs/?username=SauravAgarwal6&layout=compact&theme=tokyonight&cache_seconds=3600" alt="Top Languages" />
 </p>
 <p align="center">
-  <img align="center" src="https://YOUR_NEW_STREAK_STATS_URL.vercel.app/?user=SauravAgarwal6&theme=tokyonight" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats-tan-psi.vercel.app/?user=SauravAgarwal6&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---

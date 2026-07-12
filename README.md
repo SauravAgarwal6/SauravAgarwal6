@@ -1,85 +1,158 @@
 # Hi there, I'm Saurav Agarwal 👋
 
 <p align="center">
-  <a href="https://github.com/SauravAgarwal6">
-    <img src="https://komarev.com/ghpvc/?username=SauravAgarwal6&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=SauravAgarwal6&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
-### A Full-Stack Developer from India specializing in the MERN stack.
+<h3 align="center">
+Full Stack Developer | Java | Spring Boot | MERN Stack | DSA Enthusiast
+</h3>
 
-I'm passionate about building dynamic and responsive web applications from scratch and love bringing ideas to life in the browser.
+<p align="center">
+Passionate about building scalable web applications using Java, Spring Boot, React, Node.js, and MongoDB while solving Data Structures & Algorithms in Java.
+</p>
 
 ---
 
-### 🚀 My Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%">
 <h3 align="center">Real-Time Private Chat App</h3>
-<div align="center">
-<p>A full-stack application for real-time, private conversations between users, featuring image sharing and online presence indicators.</p>
-<p>
-<strong>Tech Stack:</strong> React, Node.js, Express, MongoDB, Socket.IO, Tailwind CSS
+
+<p align="center">
+A secure real-time chat application supporting one-to-one messaging, image sharing, authentication, and online user status.
 </p>
-<a href="https://full-stack-chat-app-ztvs.onrender.com/" target="_blank"><strong>Live Demo »</strong></a>
-<br>
-<a href="https://github.com/SauravAgarwal6/Full-Stack-Chat-App" target="_blank"><strong>View Code »</strong></a>
-</div>
+
+<p align="center">
+<b>Tech Stack</b><br>
+React • Node.js • Express • MongoDB • Socket.IO • Tailwind CSS
+</p>
+
+<p align="center">
+<a href="https://full-stack-chat-app-ztvs.onrender.com/">🌐 Live Demo</a> |
+<a href="https://github.com/SauravAgarwal6/Full-Stack-Chat-App">💻 Source Code</a>
+</p>
+
 </td>
+
 <td width="50%">
+
 <h3 align="center">Video Call Application</h3>
-<div align="center">
-<p>A real-time video conferencing application that enables users to connect face-to-face through their browsers.</p>
-<p>
-<strong>Tech Stack:</strong> React, WebRTC, Socket.IO, Node.js
+
+<p align="center">
+Browser-based video conferencing application using WebRTC with real-time signaling.
 </p>
-<a href="https://call-app-by-saurav.netlify.app/" target="_blank"><strong>Live Demo »</strong></a>
-<br>
-<a href="https://github.com/SauravAgarwal6/CallApp" target="_blank"><strong>View Code »</strong></a>
-</div>
+
+<p align="center">
+<b>Tech Stack</b><br>
+React • WebRTC • Node.js • Socket.IO
+</p>
+
+<p align="center">
+<a href="https://call-app-by-saurav.netlify.app/">🌐 Live Demo</a> |
+<a href="https://github.com/SauravAgarwal6/CallApp">💻 Source Code</a>
+</p>
+
 </td>
+
 </tr>
 </table>
 
 ---
 
-### 🛠️ My Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,js,ts,react,nodejs,express,mongodb,tailwind,git,github,vscode,figma&perline=8" />
+
 </p>
 
 ---
 
-### 📊 My GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats-gamma-cyan-70.vercel.app/api?username=SauravAgarwal6&show_icons=true&theme=tokyonight&cache_seconds=3600" alt="Saurav's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats-gamma-cyan-70.vercel.app/api/top-langs/?username=SauravAgarwal6&layout=compact&theme=tokyonight&cache_seconds=3600" alt="Top Languages" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SauravAgarwal6&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauravAgarwal6&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
+
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats-tan-psi.vercel.app/?user=SauravAgarwal6&theme=tokyonight" alt="GitHub Streak" />
+
+<img src="https://streak-stats.demolab.com?user=SauravAgarwal6&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-### 📫 Let's Connect!
-
--   **Portfolio:** **(https://sauravagarwalportfolio.netlify.app/)**
--   **Email:** **sauravplace7277@gmail.com**
--   **LinkedIn:** **[linkedin.com/in/saurav-kumar663](https://www.linkedin.com/in/saurav-kumar663/)**
+# 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saurav-kumar663/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saurav Kumar's LinkedIn" height="30" width="40" /></a>
-  <a href="https://x.com/saurav_agarwal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Saurav Agarwal's Twitter" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/saurav_agarwal7277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Saurav Agarwal's Instagram" height="30" width="40" /></a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SauravAgarwal6&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SauravAgarwal6&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🧠 Currently Learning
+
+- Spring Boot
+- Hibernate & JPA
+- System Design
+- Advanced DSA in Java
+- Microservices
+
+---
+
+# 📫 Connect With Me
+
+- 🌐 **Portfolio:** https://sauravagarwalportfolio.netlify.app/
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/saurav-kumar663/
+
+- 💻 **LeetCode:** https://leetcode.com/u/sauravkumaragarwal7277/
+
+- 📧 **Email:** sauravplace7277@gmail.com
+
+---
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/saurav-kumar663">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/SauravAgarwal6">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://x.com/saurav_agarwal1">
+<img src="https://cdn.simpleicons.org/x/ffffff"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
 </p>

@@ -1,73 +1,75 @@
-# Hi there, I'm Saurav Agarwal 👋
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SauravAgarwal6&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</p>
+<h1 align="center">Hi 👋, I'm Saurav Agarwal</h1>
 
 <h3 align="center">
-Full Stack Developer | Java | Spring Boot | MERN Stack | DSA Enthusiast
+Java Full Stack Developer | Spring Boot | MERN Stack | DSA in Java
 </h3>
 
 <p align="center">
-Passionate about building scalable web applications using Java, Spring Boot, React, Node.js, and MongoDB while solving Data Structures & Algorithms in Java.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;MERN+Stack+Developer;DSA+Enthusiast;Always+Learning+New+Technologies" />
 </p>
+
+<p align="center">
+<a href="https://github.com/SauravAgarwal6">
+<img src="https://komarev.com/ghpvc/?username=SauravAgarwal6&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</a>
+</p>
+
+---
+
+# 💫 About Me
+
+- 🎓 B.Tech CSE Graduate
+- 💻 Java Full Stack & MERN Stack Developer
+- 🌱 Currently learning **Spring Boot**, **Hibernate**, and **Microservices**
+- 💡 Passionate about Backend Development and Problem Solving
+- 🧠 Solving Data Structures & Algorithms using Java
+- 🚀 Open to Software Development Opportunities
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
+## 💬 Real-Time Private Chat Application
 
-<td width="50%">
-<h3 align="center">Real-Time Private Chat App</h3>
+A full-stack real-time chat application supporting authentication, image sharing, online users, and instant messaging.
 
-<p align="center">
-A secure real-time chat application supporting one-to-one messaging, image sharing, authentication, and online user status.
-</p>
+**Tech Stack**
 
-<p align="center">
-<b>Tech Stack</b><br>
 React • Node.js • Express • MongoDB • Socket.IO • Tailwind CSS
-</p>
 
-<p align="center">
-<a href="https://full-stack-chat-app-ztvs.onrender.com/">🌐 Live Demo</a> |
-<a href="https://github.com/SauravAgarwal6/Full-Stack-Chat-App">💻 Source Code</a>
-</p>
+🌐 **Live Demo**
 
-</td>
+https://full-stack-chat-app-ztvs.onrender.com/
 
-<td width="50%">
+💻 **GitHub**
 
-<h3 align="center">Video Call Application</h3>
-
-<p align="center">
-Browser-based video conferencing application using WebRTC with real-time signaling.
-</p>
-
-<p align="center">
-<b>Tech Stack</b><br>
-React • WebRTC • Node.js • Socket.IO
-</p>
-
-<p align="center">
-<a href="https://call-app-by-saurav.netlify.app/">🌐 Live Demo</a> |
-<a href="https://github.com/SauravAgarwal6/CallApp">💻 Source Code</a>
-</p>
-
-</td>
-
-</tr>
-</table>
+https://github.com/SauravAgarwal6/Full-Stack-Chat-App
 
 ---
 
-# 💻 Tech Stack
+## 📹 Video Call Application
+
+Browser-based real-time video calling application built using WebRTC.
+
+**Tech Stack**
+
+React • WebRTC • Socket.IO • Node.js
+
+🌐 **Live Demo**
+
+https://call-app-by-saurav.netlify.app/
+
+💻 **GitHub**
+
+https://github.com/SauravAgarwal6/CallApp
+
+---
+
+# 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,js,ts,react,nodejs,express,mongodb,tailwind,git,github,vscode,figma&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,js,ts,react,nodejs,express,mongodb,tailwind,git,github,postman,vscode,figma&perline=6"/>
 
 </p>
 
@@ -91,7 +93,7 @@ React • WebRTC • Node.js • Socket.IO
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Contribution Graph
 
 <p align="center">
 
@@ -101,35 +103,60 @@ React • WebRTC • Node.js • Socket.IO
 
 ---
 
-# 🏆 GitHub Trophies
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SauravAgarwal6/SauravAgarwal6/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+
+---
+
+# 📚 Currently Learning
+
+- Spring Boot
+- Hibernate & JPA
+- REST APIs
+- Microservices
+- System Design
+- Advanced Java
+- DSA
+
+---
+
+# 💻 Coding Profiles
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SauravAgarwal6&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<a href="https://leetcode.com/u/sauravkumaragarwal7277/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SauravAgarwal6">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </p>
 
 ---
 
-# 🧠 Currently Learning
-
-- Spring Boot
-- Hibernate & JPA
-- System Design
-- Advanced DSA in Java
-- Microservices
-
----
-
 # 📫 Connect With Me
 
-- 🌐 **Portfolio:** https://sauravagarwalportfolio.netlify.app/
+🌐 **Portfolio**
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/saurav-kumar663/
+https://sauravagarwalportfolio.netlify.app/
 
-- 💻 **LeetCode:** https://leetcode.com/u/sauravkumaragarwal7277/
+💼 **LinkedIn**
 
-- 📧 **Email:** sauravplace7277@gmail.com
+https://www.linkedin.com/in/saurav-kumar663/
+
+💻 **GitHub**
+
+https://github.com/SauravAgarwal6
+
+📧 **Email**
+
+sauravplace7277@gmail.com
 
 ---
 
@@ -143,16 +170,22 @@ React • WebRTC • Node.js • Socket.IO
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://x.com/saurav_agarwal1">
-<img src="https://cdn.simpleicons.org/x/ffffff"/>
+<a href="https://leetcode.com/u/sauravkumaragarwal7277/">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" width="48"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+<h3 align="center">
 
 ⭐ Thanks for visiting my profile! ⭐
 
-</p>
+</h3>
+
+<h4 align="center">
+
+Building scalable applications one commit at a time.
+
+</h4>
